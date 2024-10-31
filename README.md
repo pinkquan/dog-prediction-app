@@ -19,24 +19,19 @@
         việc thu thập dữ liệu hình ảnh, xây dựng và huấn luyện mô hình CNN, đánh giá hiệu suất, và tối ưu hóa mô hình 
         để đạt độ chính xác cao nhất.
       </p>
-
-      <hr />
-
+      <hr/>
       <h3 class="font-montserrat pl-3">Giới thiệu về dữ liệu</h3>
       <p class="text-justify font-weight-light">
         Dữ liệu được lấy từ 
         <a href="https://www.kaggle.com/catherinehorng/dogbreedidfromcomp/download" class="font-weight-bold">Dogs Dataset</a>.
       </p>
-
-      <hr />
-
+      <hr/>
       <h4 class="font-montserrat pl-3">Link to Project</h4>
       <p class="text-justify font-weight-light">
         Colab: 
         <a href="https://colab.research.google.com/drive/1pEGvyYFBu_nhggXcFoKivL1tKSW5ssOz?usp=drive_link" class="font-weight-bold">dog_breed_classification</a>
       </p>
-
-      <hr />
+      <hr/>
     </div>
   </div>
 </div>
