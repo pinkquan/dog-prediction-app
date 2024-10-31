@@ -19,6 +19,8 @@
         việc thu thập dữ liệu hình ảnh, xây dựng và huấn luyện mô hình CNN, đánh giá hiệu suất, và tối ưu hóa mô hình 
         để đạt độ chính xác cao nhất.
       </p>
+       <img src="https://th.bing.com/th/id/R.310fefb67d5acdb41d5ee1f6bdc46642?rik=BLDMXrzpumA7aw&riu=http%3a%2f%2fcdn.tgdd.vn%2fFiles%2f2021%2f04%2f12%2f1342796%2f16-giong-cho-canh-dep-de-cham-soc-pho-bien-tai-viet-nam-202206031450557164.jpg&ehk=CzYoP2jXFp3zisfq7tgWuMncHvnSN4IRD7dEfg3GmZo%3d&risl=&pid=ImgRaw&r=0" 
+           alt="Giống chó" class="img-fluid my-3" />
       <hr/>
       <h3 class="font-montserrat pl-3">Giới thiệu về dữ liệu</h3>
       <p class="text-justify font-weight-light">
